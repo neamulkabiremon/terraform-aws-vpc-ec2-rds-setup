@@ -1,4 +1,4 @@
-# 🚀 Terraform AWS VPC + EC2 + RDS Modular Infrastructure
+# Terraform AWS VPC + EC2 + RDS Modular Infrastructure
 
 This project demonstrates how to provision a **production-like infrastructure** on AWS using **Terraform modules**. It includes a custom VPC, a public EC2 instance (bastion or web server), and a private RDS MySQL database — all set up securely using best practices.
 
