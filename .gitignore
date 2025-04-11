@@ -1,0 +1,21 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+.terraform.lock.hcl
+
+# Crash log
+crash.log
+
+# SSH keys or secrets
+my-ec2-key
+my-ec2-key.pub
+*.pem
+*.key
+*.crt
+
+# OS files
+.DS_Store
+my-ec2-key
+my-ec2-key.pub
